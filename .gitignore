@@ -1,1 +1,4 @@
 rsync.sh
+/.idea/
+/bin/
+/.settings/
